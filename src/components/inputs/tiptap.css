@@ -1,0 +1,26 @@
+.tiptap {
+  min-height: 100px;
+  max-height: 400px;
+  width: 100%;
+  padding: 10px;
+  overflow: auto;
+}
+
+.ProseMirror {
+  border: 2px solid #ced4da;
+  border-radius: 7px;
+}
+
+.ProseMirror-focused {
+  outline: 1px solid #007bff !important;
+  border: #007bff;
+  box-shadow: 0 0 0 0.4rem rgba(0, 123, 255, 0.25);
+  border-radius: 7px;
+  outline: none;
+  transition: boder-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.customHeading {
+  background-color: #0d0d0d10;
+  opacity: 0.5;
+}

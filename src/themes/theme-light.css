@@ -1,0 +1,11 @@
+.contexify_theme-light {
+  --contexify-menu-bgColor: #fff;
+  --contexify-separator-color: #eee;
+  --contexify-item-color: #fd5858;
+  --contexify-activeItem-color: #ec3c3c;
+  --contexify-activeItem-bgColor: #ffb8b8;
+  --contexify-rightSlot-color: #6f6e77;
+  --contexify-activeRightSlot-color: #3498db;
+  --contexify-arrow-color: #6f6e77;
+  --contexify-activeArrow-color: #fff;
+}

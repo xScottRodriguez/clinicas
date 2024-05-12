@@ -1,0 +1,9 @@
+.imagen-responsive {
+  width: 100%; /* Por defecto, ocupa todo el ancho disponible */
+}
+
+@media (min-width: 768px) {
+  .imagen-responsive {
+    width: 15rem; /* Cuando la pantalla es igual o mayor a 768px, fija el ancho en 15rem */
+  }
+}

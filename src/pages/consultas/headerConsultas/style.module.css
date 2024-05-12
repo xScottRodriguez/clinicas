@@ -1,0 +1,4 @@
+.disabled {
+  pointer-events: none; /* Deshabilita eventos de puntero */
+  opacity: 0.5; /* Cambia la opacidad para indicar que está deshabilitado */
+}
